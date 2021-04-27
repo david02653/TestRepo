@@ -20,6 +20,7 @@ public class MaskJsonHandlerTest {
 	 * @param args parameter when using command line, unused
 	 */
 	public static void main(String[] args) {
+		// add something
 		String zone = "";
 		String keyword = "";
 		Scanner input;
