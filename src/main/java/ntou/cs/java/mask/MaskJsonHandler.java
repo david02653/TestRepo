@@ -72,7 +72,7 @@ public class MaskJsonHandler {
 	 */
 	public List<Pharmacy> convertToObjects(String jsonData) {
 
-		/* no more error ! */
+		/* create conflict */
 		Gson gson = new Gson();
 		ArrayList<Pharmacy> clinicList = new ArrayList<Pharmacy>();
 
