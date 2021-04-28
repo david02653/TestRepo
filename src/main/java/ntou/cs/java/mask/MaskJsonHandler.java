@@ -41,9 +41,11 @@ public class MaskJsonHandler {
 
 	/**
 	 * jsonFileName - target json file name/path
-	 * pharmacyList - this List will store pharmacy data read from json file
 	 */
 	private static String jsonFileName = "mask.json";
+	/**
+	 * pharmacyList - this List will store pharmacy data read from json file
+	 */
 	private List<Pharmacy> pharmacyList;
 
 	/**

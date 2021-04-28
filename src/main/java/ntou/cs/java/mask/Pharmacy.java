@@ -11,20 +11,32 @@ package ntou.cs.java.mask;
  */
 public class Pharmacy {
 	/**
-	 * id - pharmacy id <br>
-	 * name - pharmacy name <br>
-	 * address - pharmacy address <br>
-	 * phone - pharmacy phone number <br>
-	 * numberOfAdultMasks - number of adult masks <br>
-	 * numberOfChildrenMasks - number of adult masks <br>
-	 * updatedTime - last updated time
+	 * id - pharmacy id
 	 */
 	private String id;
+	/**
+	 * name - pharmacy name
+	 */
 	private String name;
+	/**
+	 * address - pharmacy address
+	 */
 	private String address;
+	/**
+	 * phone - pharmacy phone number
+	 */
 	private String phone;
+	/**
+	 * numberOfAdultMasks - number of adult masks
+	 */
 	private int numberOfAdultMasks;
+	/**
+	 * numberOfChildrenMasks - number of adult masks
+	 */
 	private int numberOfChildrenMasks;
+	/**
+	 * updatedTime - last updated time
+	 */
 	private String updatedTime;
 
 	/**
